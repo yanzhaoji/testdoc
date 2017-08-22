@@ -6,7 +6,7 @@ name: Installation
 
 ## From Binary
 
-YZJYou can download binaries of latest release on [GitHub](https://github.com/peachdocs/peach/releases).
+HaHa_YZJYou can download binaries of latest release on [GitHub](https://github.com/peachdocs/peach/releases).
 
 ## From Source Code
 
